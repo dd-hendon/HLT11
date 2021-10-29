@@ -25,7 +25,7 @@ public class JDBCServlet extends HttpServlet {
         String driverName = "com.mysql.cj.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/sakila";
         String userName = "root";
-        String databasePassword = "2St^%s*AHV5hM7";
+        String databasePassword = "root";
 
 
         try {
